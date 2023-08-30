@@ -1,5 +1,5 @@
 # Balance-Attack
-An Pytorch implementation of the paper "Black-Box Attacks against Signed Graph Analysis via Balance Poisoning".
+A PyTorch implementation of the paper titled "Black-Box Attacks against Signed Graph Analysis via Balance Poisoning".
 
 ## Input (Original Graph Data)
 Format:
